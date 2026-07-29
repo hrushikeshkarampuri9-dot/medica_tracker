@@ -27,6 +27,20 @@ MediTracker is a Flutter-based mobile application designed to help medical store
 3. Connect an Android device or emulator.
 4. Run `flutter run`
 
+## 📸 Screenshots
+
+### Home Screen
+![Home Screen](Screenshot_2026-07-29-20-56-31-09_43dbe460a3c76dcb0b726891d636248f.jpg)
+
+### Customer/Medicine Screen
+![Customer Screen](Screenshot_2026-07-29-20-58-05-60_43dbe460a3c76dcb0b726891d636248f.jpg)
+
+### Purchase Screen
+![Purchase Screen](Screenshot_2026-07-29-20-58-27-80_43dbe460a3c76dcb0b726891d636248f.jpg)
+
+### Reminder Screen
+![Reminder Screen](Screenshot_2026-07-29-20-58-42-38_43dbe460a3c76dcb0b726891d636248f.jpg)
+
 ## 👨‍💻 Developer
 **Hrushikesh Karampuri**
 
